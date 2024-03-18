@@ -1,4 +1,4 @@
-# RobotChallenge
+# Toy Robot Challenge
 
 ### Prerequisites
 - Python 3.11.1
