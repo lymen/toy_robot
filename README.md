@@ -3,13 +3,13 @@
 ### Prerequisites
 - Python 3.11.1
 
-### Run
-* ./main.py
+### Run Application
+```$ python main.py```
 
 - Commands are not case sensitive
 
 ### Testing
-* ./test.py
+```$ python test.py```
 
 - Testing for correctness of the simulation
 - Testing for invalid commands
